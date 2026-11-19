@@ -1,0 +1,336 @@
+log_id,visit_date,time_block,pet_id,activity_type,duration_minutes,delay_minutes
+1001,2026-08-01,Morning (7-10 AM),108,Drop-In Check,30,0
+1002,2026-08-01,Morning (7-10 AM),101,Walk & Exercise,55,16
+1003,2026-08-01,Morning (7-10 AM),107,Drop-In Check,48,16
+1004,2026-08-01,Morning (7-10 AM),102,Feeding & Meds,23,0
+1005,2026-08-01,Evening (5-8 PM),103,Feeding & Meds,41,0
+1006,2026-08-01,Evening (5-8 PM),105,Feeding & Meds,40,0
+1007,2026-08-02,Evening (5-8 PM),101,Feeding & Meds,49,0
+1008,2026-08-02,Evening (5-8 PM),103,Feeding & Meds,43,0
+1009,2026-08-02,Morning (7-10 AM),102,Feeding & Meds,20,15
+1010,2026-08-02,Evening (5-8 PM),102,Drop-In Check,28,0
+1011,2026-08-02,Midday (11 AM-2 PM),104,Drop-In Check,24,0
+1012,2026-08-03,Morning (7-10 AM),106,Feeding & Meds,22,11
+1013,2026-08-03,Midday (11 AM-2 PM),106,Walk & Exercise,43,0
+1014,2026-08-03,Morning (7-10 AM),106,Feeding & Meds,31,0
+1015,2026-08-03,Evening (5-8 PM),105,Drop-In Check,48,17
+1016,2026-08-04,Evening (5-8 PM),105,Feeding & Meds,46,0
+1017,2026-08-04,Morning (7-10 AM),108,Feeding & Meds,26,0
+1018,2026-08-05,Midday (11 AM-2 PM),104,Drop-In Check,24,0
+1019,2026-08-05,Midday (11 AM-2 PM),104,Drop-In Check,23,21
+1020,2026-08-06,Evening (5-8 PM),103,Walk & Exercise,66,0
+1021,2026-08-06,Morning (7-10 AM),101,Drop-In Check,49,11
+1022,2026-08-06,Morning (7-10 AM),105,Walk & Exercise,56,0
+1023,2026-08-06,Midday (11 AM-2 PM),101,Walk & Exercise,56,0
+1024,2026-08-07,Morning (7-10 AM),102,Drop-In Check,23,0
+1025,2026-08-07,Midday (11 AM-2 PM),106,Feeding & Meds,33,0
+1026,2026-08-07,Evening (5-8 PM),103,Feeding & Meds,35,18
+1027,2026-08-07,Morning (7-10 AM),106,Feeding & Meds,26,10
+1028,2026-08-07,Midday (11 AM-2 PM),104,Drop-In Check,20,0
+1029,2026-08-08,Morning (7-10 AM),105,Feeding & Meds,47,10
+1030,2026-08-08,Midday (11 AM-2 PM),102,Walk & Exercise,43,0
+1031,2026-08-08,Morning (7-10 AM),108,Feeding & Meds,29,0
+1032,2026-08-08,Evening (5-8 PM),101,Walk & Exercise,62,0
+1033,2026-08-09,Morning (7-10 AM),104,Walk & Exercise,51,0
+1034,2026-08-09,Morning (7-10 AM),106,Drop-In Check,31,0
+1035,2026-08-09,Evening (5-8 PM),105,Feeding & Meds,44,0
+1036,2026-08-09,Evening (5-8 PM),106,Feeding & Meds,31,0
+1037,2026-08-09,Midday (11 AM-2 PM),107,Walk & Exercise,56,0
+1038,2026-08-09,Morning (7-10 AM),105,Feeding & Meds,39,13
+1039,2026-08-10,Midday (11 AM-2 PM),105,Walk & Exercise,62,0
+1040,2026-08-10,Midday (11 AM-2 PM),108,Drop-In Check,24,18
+1041,2026-08-11,Midday (11 AM-2 PM),105,Drop-In Check,38,0
+1042,2026-08-11,Morning (7-10 AM),103,Feeding & Meds,44,0
+1043,2026-08-12,Morning (7-10 AM),101,Drop-In Check,38,0
+1044,2026-08-12,Evening (5-8 PM),108,Drop-In Check,20,0
+1045,2026-08-13,Morning (7-10 AM),101,Drop-In Check,36,0
+1046,2026-08-13,Evening (5-8 PM),108,Walk & Exercise,46,17
+1047,2026-08-13,Midday (11 AM-2 PM),102,Feeding & Meds,27,0
+1048,2026-08-14,Midday (11 AM-2 PM),105,Walk & Exercise,61,0
+1049,2026-08-14,Evening (5-8 PM),104,Feeding & Meds,32,0
+1050,2026-08-14,Morning (7-10 AM),106,Drop-In Check,23,0
+1051,2026-08-14,Evening (5-8 PM),106,Drop-In Check,28,14
+1052,2026-08-15,Morning (7-10 AM),108,Feeding & Meds,34,14
+1053,2026-08-15,Evening (5-8 PM),106,Feeding & Meds,21,0
+1054,2026-08-15,Morning (7-10 AM),101,Walk & Exercise,60,0
+1055,2026-08-15,Morning (7-10 AM),106,Feeding & Meds,26,11
+1056,2026-08-15,Evening (5-8 PM),101,Walk & Exercise,69,0
+1057,2026-08-16,Evening (5-8 PM),102,Feeding & Meds,25,0
+1058,2026-08-16,Evening (5-8 PM),103,Feeding & Meds,37,0
+1059,2026-08-16,Evening (5-8 PM),104,Feeding & Meds,25,0
+1060,2026-08-16,Morning (7-10 AM),108,Walk & Exercise,47,8
+1061,2026-08-17,Morning (7-10 AM),105,Drop-In Check,40,13
+1062,2026-08-17,Evening (5-8 PM),102,Feeding & Meds,22,0
+1063,2026-08-17,Midday (11 AM-2 PM),108,Walk & Exercise,46,0
+1064,2026-08-18,Morning (7-10 AM),105,Drop-In Check,45,0
+1065,2026-08-18,Morning (7-10 AM),107,Feeding & Meds,46,0
+1066,2026-08-18,Evening (5-8 PM),102,Drop-In Check,20,0
+1067,2026-08-19,Evening (5-8 PM),108,Feeding & Meds,31,0
+1068,2026-08-19,Midday (11 AM-2 PM),103,Feeding & Meds,46,0
+1069,2026-08-20,Evening (5-8 PM),104,Drop-In Check,25,0
+1070,2026-08-20,Midday (11 AM-2 PM),103,Walk & Exercise,60,0
+1071,2026-08-20,Evening (5-8 PM),105,Feeding & Meds,42,0
+1072,2026-08-21,Morning (7-10 AM),103,Drop-In Check,37,0
+1073,2026-08-21,Evening (5-8 PM),102,Feeding & Meds,32,0
+1074,2026-08-21,Morning (7-10 AM),108,Feeding & Meds,20,0
+1075,2026-08-21,Evening (5-8 PM),108,Walk & Exercise,49,0
+1076,2026-08-22,Morning (7-10 AM),102,Walk & Exercise,42,19
+1077,2026-08-22,Midday (11 AM-2 PM),101,Walk & Exercise,64,11
+1078,2026-08-22,Midday (11 AM-2 PM),104,Drop-In Check,22,0
+1079,2026-08-22,Evening (5-8 PM),106,Feeding & Meds,33,21
+1080,2026-08-23,Midday (11 AM-2 PM),105,Drop-In Check,40,0
+1081,2026-08-23,Morning (7-10 AM),106,Feeding & Meds,30,17
+1082,2026-08-23,Morning (7-10 AM),103,Feeding & Meds,38,0
+1083,2026-08-23,Morning (7-10 AM),102,Drop-In Check,25,15
+1084,2026-08-24,Midday (11 AM-2 PM),105,Feeding & Meds,37,0
+1085,2026-08-24,Morning (7-10 AM),108,Drop-In Check,20,0
+1086,2026-08-24,Midday (11 AM-2 PM),102,Feeding & Meds,27,14
+1087,2026-08-24,Evening (5-8 PM),106,Drop-In Check,34,0
+1088,2026-08-25,Evening (5-8 PM),107,Drop-In Check,43,0
+1089,2026-08-25,Evening (5-8 PM),107,Walk & Exercise,68,0
+1090,2026-08-25,Midday (11 AM-2 PM),101,Walk & Exercise,67,0
+1091,2026-08-25,Evening (5-8 PM),105,Drop-In Check,35,0
+1092,2026-08-26,Morning (7-10 AM),106,Drop-In Check,22,19
+1093,2026-08-26,Evening (5-8 PM),108,Feeding & Meds,28,0
+1094,2026-08-27,Midday (11 AM-2 PM),106,Feeding & Meds,25,0
+1095,2026-08-27,Midday (11 AM-2 PM),102,Feeding & Meds,23,0
+1096,2026-08-28,Midday (11 AM-2 PM),105,Drop-In Check,48,0
+1097,2026-08-28,Morning (7-10 AM),105,Feeding & Meds,43,12
+1098,2026-08-28,Morning (7-10 AM),107,Drop-In Check,44,0
+1099,2026-08-28,Evening (5-8 PM),104,Drop-In Check,26,9
+1100,2026-08-28,Morning (7-10 AM),108,Feeding & Meds,26,19
+1101,2026-08-29,Midday (11 AM-2 PM),104,Drop-In Check,34,0
+1102,2026-08-29,Evening (5-8 PM),104,Walk & Exercise,50,11
+1103,2026-08-29,Morning (7-10 AM),102,Feeding & Meds,21,0
+1104,2026-08-29,Morning (7-10 AM),106,Walk & Exercise,46,0
+1105,2026-08-30,Morning (7-10 AM),101,Walk & Exercise,55,20
+1106,2026-08-30,Midday (11 AM-2 PM),104,Feeding & Meds,31,0
+1107,2026-08-30,Evening (5-8 PM),102,Feeding & Meds,29,0
+1108,2026-08-30,Evening (5-8 PM),103,Feeding & Meds,41,0
+1109,2026-08-31,Evening (5-8 PM),102,Feeding & Meds,22,0
+1110,2026-08-31,Morning (7-10 AM),107,Drop-In Check,41,0
+1111,2026-08-31,Midday (11 AM-2 PM),108,Feeding & Meds,21,0
+1112,2026-08-31,Midday (11 AM-2 PM),107,Walk & Exercise,59,0
+1113,2026-09-01,Evening (5-8 PM),108,Walk & Exercise,49,0
+1114,2026-09-01,Evening (5-8 PM),104,Feeding & Meds,32,0
+1115,2026-09-01,Evening (5-8 PM),108,Feeding & Meds,26,0
+1116,2026-09-02,Midday (11 AM-2 PM),107,Walk & Exercise,60,0
+1117,2026-09-02,Evening (5-8 PM),106,Walk & Exercise,48,0
+1118,2026-09-02,Midday (11 AM-2 PM),104,Feeding & Meds,31,0
+1119,2026-09-03,Evening (5-8 PM),106,Feeding & Meds,23,0
+1120,2026-09-03,Evening (5-8 PM),101,Walk & Exercise,62,0
+1121,2026-09-04,Evening (5-8 PM),105,Drop-In Check,36,0
+1122,2026-09-04,Midday (11 AM-2 PM),108,Drop-In Check,27,0
+1123,2026-09-04,Morning (7-10 AM),104,Drop-In Check,24,21
+1124,2026-09-04,Morning (7-10 AM),106,Drop-In Check,27,0
+1125,2026-09-04,Morning (7-10 AM),103,Walk & Exercise,64,14
+1126,2026-09-04,Morning (7-10 AM),104,Drop-In Check,24,0
+1127,2026-09-05,Morning (7-10 AM),101,Drop-In Check,36,0
+1128,2026-09-05,Evening (5-8 PM),105,Drop-In Check,42,0
+1129,2026-09-05,Evening (5-8 PM),103,Walk & Exercise,64,0
+1130,2026-09-05,Evening (5-8 PM),106,Drop-In Check,30,0
+1131,2026-09-05,Midday (11 AM-2 PM),103,Drop-In Check,43,0
+1132,2026-09-05,Morning (7-10 AM),103,Feeding & Meds,48,0
+1133,2026-09-06,Midday (11 AM-2 PM),103,Feeding & Meds,42,9
+1134,2026-09-06,Evening (5-8 PM),101,Drop-In Check,48,0
+1135,2026-09-06,Morning (7-10 AM),102,Feeding & Meds,29,13
+1136,2026-09-06,Morning (7-10 AM),106,Feeding & Meds,20,14
+1137,2026-09-06,Midday (11 AM-2 PM),105,Walk & Exercise,62,0
+1138,2026-09-07,Morning (7-10 AM),107,Drop-In Check,46,0
+1139,2026-09-07,Evening (5-8 PM),105,Walk & Exercise,65,19
+1140,2026-09-08,Morning (7-10 AM),107,Walk & Exercise,66,21
+1141,2026-09-08,Morning (7-10 AM),104,Feeding & Meds,27,0
+1142,2026-09-08,Evening (5-8 PM),102,Drop-In Check,32,0
+1143,2026-09-09,Evening (5-8 PM),102,Feeding & Meds,34,0
+1144,2026-09-09,Evening (5-8 PM),101,Drop-In Check,36,0
+1145,2026-09-09,Midday (11 AM-2 PM),104,Walk & Exercise,42,11
+1146,2026-09-10,Morning (7-10 AM),105,Feeding & Meds,38,21
+1147,2026-09-10,Midday (11 AM-2 PM),103,Feeding & Meds,36,0
+1148,2026-09-10,Evening (5-8 PM),101,Drop-In Check,47,10
+1149,2026-09-11,Morning (7-10 AM),101,Walk & Exercise,58,17
+1150,2026-09-11,Evening (5-8 PM),104,Feeding & Meds,30,0
+1151,2026-09-11,Midday (11 AM-2 PM),102,Feeding & Meds,22,0
+1152,2026-09-11,Evening (5-8 PM),107,Drop-In Check,35,0
+1153,2026-09-11,Evening (5-8 PM),105,Walk & Exercise,62,0
+1154,2026-09-11,Evening (5-8 PM),105,Drop-In Check,38,0
+1155,2026-09-12,Morning (7-10 AM),103,Feeding & Meds,40,0
+1156,2026-09-12,Evening (5-8 PM),106,Feeding & Meds,34,0
+1157,2026-09-12,Morning (7-10 AM),107,Feeding & Meds,37,21
+1158,2026-09-12,Evening (5-8 PM),103,Walk & Exercise,56,0
+1159,2026-09-13,Morning (7-10 AM),107,Feeding & Meds,41,19
+1160,2026-09-13,Evening (5-8 PM),107,Feeding & Meds,43,0
+1161,2026-09-13,Evening (5-8 PM),106,Feeding & Meds,30,0
+1162,2026-09-13,Midday (11 AM-2 PM),108,Walk & Exercise,51,0
+1163,2026-09-14,Midday (11 AM-2 PM),108,Drop-In Check,26,0
+1164,2026-09-14,Evening (5-8 PM),101,Feeding & Meds,39,0
+1165,2026-09-14,Morning (7-10 AM),105,Feeding & Meds,49,11
+1166,2026-09-14,Evening (5-8 PM),108,Walk & Exercise,43,0
+1167,2026-09-15,Morning (7-10 AM),107,Feeding & Meds,38,0
+1168,2026-09-15,Evening (5-8 PM),101,Drop-In Check,47,0
+1169,2026-09-15,Midday (11 AM-2 PM),108,Feeding & Meds,33,0
+1170,2026-09-16,Midday (11 AM-2 PM),107,Feeding & Meds,42,0
+1171,2026-09-16,Morning (7-10 AM),107,Drop-In Check,39,5
+1172,2026-09-17,Morning (7-10 AM),101,Walk & Exercise,64,0
+1173,2026-09-17,Evening (5-8 PM),107,Feeding & Meds,38,0
+1174,2026-09-18,Evening (5-8 PM),102,Feeding & Meds,34,0
+1175,2026-09-18,Morning (7-10 AM),101,Walk & Exercise,58,5
+1176,2026-09-18,Morning (7-10 AM),102,Feeding & Meds,23,0
+1177,2026-09-18,Evening (5-8 PM),106,Feeding & Meds,34,0
+1178,2026-09-18,Morning (7-10 AM),105,Feeding & Meds,44,0
+1179,2026-09-18,Morning (7-10 AM),104,Drop-In Check,25,5
+1180,2026-09-19,Midday (11 AM-2 PM),101,Drop-In Check,42,0
+1181,2026-09-19,Evening (5-8 PM),102,Walk & Exercise,48,6
+1182,2026-09-19,Evening (5-8 PM),103,Feeding & Meds,49,0
+1183,2026-09-19,Evening (5-8 PM),101,Walk & Exercise,63,0
+1184,2026-09-19,Morning (7-10 AM),102,Feeding & Meds,24,5
+1185,2026-09-19,Midday (11 AM-2 PM),106,Feeding & Meds,21,0
+1186,2026-09-20,Morning (7-10 AM),103,Feeding & Meds,39,8
+1187,2026-09-20,Morning (7-10 AM),105,Drop-In Check,45,19
+1188,2026-09-20,Morning (7-10 AM),102,Feeding & Meds,22,8
+1189,2026-09-20,Midday (11 AM-2 PM),106,Feeding & Meds,23,0
+1190,2026-09-20,Morning (7-10 AM),103,Feeding & Meds,41,0
+1191,2026-09-20,Evening (5-8 PM),104,Feeding & Meds,26,0
+1192,2026-09-21,Midday (11 AM-2 PM),101,Walk & Exercise,64,0
+1193,2026-09-21,Morning (7-10 AM),103,Feeding & Meds,42,0
+1194,2026-09-22,Midday (11 AM-2 PM),105,Walk & Exercise,69,0
+1195,2026-09-22,Morning (7-10 AM),108,Drop-In Check,31,15
+1196,2026-09-22,Morning (7-10 AM),103,Feeding & Meds,41,0
+1197,2026-09-22,Morning (7-10 AM),107,Feeding & Meds,37,0
+1198,2026-09-23,Midday (11 AM-2 PM),108,Walk & Exercise,47,0
+1199,2026-09-23,Evening (5-8 PM),108,Drop-In Check,24,0
+1200,2026-09-23,Morning (7-10 AM),106,Feeding & Meds,31,0
+1201,2026-09-24,Morning (7-10 AM),101,Walk & Exercise,67,0
+1202,2026-09-24,Evening (5-8 PM),104,Drop-In Check,33,0
+1203,2026-09-25,Evening (5-8 PM),102,Feeding & Meds,25,11
+1204,2026-09-25,Morning (7-10 AM),103,Feeding & Meds,36,13
+1205,2026-09-25,Evening (5-8 PM),107,Feeding & Meds,41,0
+1206,2026-09-25,Evening (5-8 PM),104,Walk & Exercise,43,0
+1207,2026-09-25,Evening (5-8 PM),104,Feeding & Meds,33,0
+1208,2026-09-25,Morning (7-10 AM),102,Feeding & Meds,33,0
+1209,2026-09-26,Midday (11 AM-2 PM),103,Feeding & Meds,40,0
+1210,2026-09-26,Morning (7-10 AM),108,Walk & Exercise,41,0
+1211,2026-09-26,Midday (11 AM-2 PM),102,Feeding & Meds,31,0
+1212,2026-09-26,Morning (7-10 AM),107,Walk & Exercise,57,6
+1213,2026-09-26,Midday (11 AM-2 PM),108,Walk & Exercise,42,18
+1214,2026-09-27,Evening (5-8 PM),106,Walk & Exercise,43,0
+1215,2026-09-27,Evening (5-8 PM),101,Drop-In Check,41,0
+1216,2026-09-27,Morning (7-10 AM),103,Feeding & Meds,39,19
+1217,2026-09-27,Evening (5-8 PM),106,Walk & Exercise,41,8
+1218,2026-09-27,Evening (5-8 PM),102,Feeding & Meds,29,6
+1219,2026-09-27,Evening (5-8 PM),105,Feeding & Meds,39,0
+1220,2026-09-28,Morning (7-10 AM),104,Walk & Exercise,49,0
+1221,2026-09-28,Morning (7-10 AM),101,Feeding & Meds,42,21
+1222,2026-09-29,Evening (5-8 PM),102,Feeding & Meds,28,0
+1223,2026-09-29,Midday (11 AM-2 PM),102,Feeding & Meds,34,0
+1224,2026-09-29,Midday (11 AM-2 PM),102,Feeding & Meds,27,0
+1225,2026-09-29,Morning (7-10 AM),102,Feeding & Meds,20,8
+1226,2026-09-30,Evening (5-8 PM),104,Walk & Exercise,43,0
+1227,2026-09-30,Evening (5-8 PM),104,Feeding & Meds,30,21
+1228,2026-09-30,Midday (11 AM-2 PM),105,Walk & Exercise,56,0
+1229,2026-10-01,Evening (5-8 PM),107,Feeding & Meds,48,0
+1230,2026-10-01,Midday (11 AM-2 PM),103,Feeding & Meds,41,0
+1231,2026-10-01,Morning (7-10 AM),104,Feeding & Meds,21,19
+1232,2026-10-02,Evening (5-8 PM),106,Drop-In Check,34,11
+1233,2026-10-02,Morning (7-10 AM),106,Feeding & Meds,24,0
+1234,2026-10-02,Evening (5-8 PM),108,Feeding & Meds,26,0
+1235,2026-10-02,Evening (5-8 PM),106,Feeding & Meds,20,6
+1236,2026-10-02,Morning (7-10 AM),102,Walk & Exercise,49,8
+1237,2026-10-02,Midday (11 AM-2 PM),105,Drop-In Check,39,18
+1238,2026-10-03,Morning (7-10 AM),103,Drop-In Check,38,0
+1239,2026-10-03,Evening (5-8 PM),101,Walk & Exercise,69,17
+1240,2026-10-03,Morning (7-10 AM),101,Feeding & Meds,41,0
+1241,2026-10-03,Evening (5-8 PM),107,Feeding & Meds,47,0
+1242,2026-10-04,Evening (5-8 PM),102,Feeding & Meds,23,0
+1243,2026-10-04,Midday (11 AM-2 PM),104,Feeding & Meds,20,0
+1244,2026-10-04,Evening (5-8 PM),101,Walk & Exercise,59,0
+1245,2026-10-04,Morning (7-10 AM),101,Drop-In Check,36,0
+1246,2026-10-04,Morning (7-10 AM),105,Walk & Exercise,69,0
+1247,2026-10-05,Morning (7-10 AM),101,Drop-In Check,41,0
+1248,2026-10-05,Morning (7-10 AM),103,Feeding & Meds,42,15
+1249,2026-10-06,Evening (5-8 PM),108,Feeding & Meds,27,0
+1250,2026-10-06,Midday (11 AM-2 PM),103,Walk & Exercise,57,0
+1251,2026-10-07,Evening (5-8 PM),105,Walk & Exercise,63,8
+1252,2026-10-07,Evening (5-8 PM),108,Feeding & Meds,30,21
+1253,2026-10-08,Morning (7-10 AM),103,Walk & Exercise,56,20
+1254,2026-10-08,Morning (7-10 AM),101,Drop-In Check,44,0
+1255,2026-10-09,Evening (5-8 PM),108,Feeding & Meds,34,0
+1256,2026-10-09,Evening (5-8 PM),103,Feeding & Meds,35,7
+1257,2026-10-09,Morning (7-10 AM),106,Feeding & Meds,30,9
+1258,2026-10-09,Morning (7-10 AM),107,Drop-In Check,43,20
+1259,2026-10-09,Morning (7-10 AM),101,Drop-In Check,47,0
+1260,2026-10-09,Morning (7-10 AM),108,Walk & Exercise,51,0
+1261,2026-10-10,Evening (5-8 PM),105,Drop-In Check,35,0
+1262,2026-10-10,Midday (11 AM-2 PM),101,Drop-In Check,45,0
+1263,2026-10-10,Morning (7-10 AM),105,Walk & Exercise,57,13
+1264,2026-10-10,Evening (5-8 PM),107,Walk & Exercise,59,0
+1265,2026-10-11,Evening (5-8 PM),108,Feeding & Meds,20,0
+1266,2026-10-11,Midday (11 AM-2 PM),106,Feeding & Meds,25,0
+1267,2026-10-11,Evening (5-8 PM),108,Feeding & Meds,21,0
+1268,2026-10-11,Morning (7-10 AM),103,Feeding & Meds,37,0
+1269,2026-10-11,Midday (11 AM-2 PM),102,Walk & Exercise,46,0
+1270,2026-10-12,Midday (11 AM-2 PM),104,Drop-In Check,21,0
+1271,2026-10-12,Midday (11 AM-2 PM),103,Drop-In Check,38,12
+1272,2026-10-13,Evening (5-8 PM),104,Drop-In Check,28,0
+1273,2026-10-13,Morning (7-10 AM),102,Feeding & Meds,27,0
+1274,2026-10-13,Morning (7-10 AM),103,Walk & Exercise,57,18
+1275,2026-10-14,Morning (7-10 AM),106,Feeding & Meds,27,20
+1276,2026-10-14,Evening (5-8 PM),107,Walk & Exercise,69,0
+1277,2026-10-14,Morning (7-10 AM),102,Drop-In Check,20,5
+1278,2026-10-15,Midday (11 AM-2 PM),105,Feeding & Meds,38,0
+1279,2026-10-15,Morning (7-10 AM),102,Feeding & Meds,31,0
+1280,2026-10-16,Morning (7-10 AM),106,Feeding & Meds,25,21
+1281,2026-10-16,Midday (11 AM-2 PM),101,Walk & Exercise,67,0
+1282,2026-10-16,Midday (11 AM-2 PM),102,Walk & Exercise,53,0
+1283,2026-10-16,Midday (11 AM-2 PM),105,Feeding & Meds,44,0
+1284,2026-10-16,Morning (7-10 AM),102,Feeding & Meds,26,0
+1285,2026-10-17,Morning (7-10 AM),102,Feeding & Meds,31,0
+1286,2026-10-17,Morning (7-10 AM),103,Feeding & Meds,39,18
+1287,2026-10-17,Morning (7-10 AM),108,Feeding & Meds,20,0
+1288,2026-10-17,Midday (11 AM-2 PM),108,Drop-In Check,34,0
+1289,2026-10-17,Midday (11 AM-2 PM),103,Feeding & Meds,36,13
+1290,2026-10-17,Evening (5-8 PM),105,Walk & Exercise,60,0
+1291,2026-10-18,Midday (11 AM-2 PM),104,Walk & Exercise,54,21
+1292,2026-10-18,Evening (5-8 PM),103,Feeding & Meds,47,0
+1293,2026-10-18,Evening (5-8 PM),101,Drop-In Check,43,0
+1294,2026-10-18,Morning (7-10 AM),104,Drop-In Check,21,9
+1295,2026-10-18,Morning (7-10 AM),108,Feeding & Meds,31,7
+1296,2026-10-19,Evening (5-8 PM),105,Feeding & Meds,38,0
+1297,2026-10-19,Morning (7-10 AM),103,Drop-In Check,45,18
+1298,2026-10-19,Evening (5-8 PM),101,Drop-In Check,39,0
+1299,2026-10-19,Evening (5-8 PM),104,Feeding & Meds,31,0
+1300,2026-10-20,Morning (7-10 AM),107,Walk & Exercise,59,0
+1301,2026-10-20,Morning (7-10 AM),107,Feeding & Meds,47,21
+1302,2026-10-21,Midday (11 AM-2 PM),102,Feeding & Meds,34,7
+1303,2026-10-21,Evening (5-8 PM),106,Feeding & Meds,28,0
+1304,2026-10-22,Midday (11 AM-2 PM),102,Feeding & Meds,30,0
+1305,2026-10-22,Evening (5-8 PM),108,Walk & Exercise,40,0
+1306,2026-10-22,Midday (11 AM-2 PM),105,Feeding & Meds,49,0
+1307,2026-10-22,Midday (11 AM-2 PM),108,Walk & Exercise,42,0
+1308,2026-10-23,Evening (5-8 PM),108,Drop-In Check,32,0
+1309,2026-10-23,Morning (7-10 AM),102,Feeding & Meds,34,0
+1310,2026-10-23,Evening (5-8 PM),101,Feeding & Meds,47,7
+1311,2026-10-23,Morning (7-10 AM),103,Feeding & Meds,43,0
+1312,2026-10-23,Morning (7-10 AM),104,Walk & Exercise,43,0
+1313,2026-10-23,Evening (5-8 PM),103,Drop-In Check,36,13
+1314,2026-10-24,Evening (5-8 PM),101,Walk & Exercise,56,10
+1315,2026-10-24,Morning (7-10 AM),106,Drop-In Check,34,11
+1316,2026-10-24,Midday (11 AM-2 PM),104,Walk & Exercise,40,0
+1317,2026-10-24,Evening (5-8 PM),102,Feeding & Meds,26,0
+1318,2026-10-24,Midday (11 AM-2 PM),101,Feeding & Meds,48,0
+1319,2026-10-25,Evening (5-8 PM),102,Feeding & Meds,34,0
+1320,2026-10-25,Morning (7-10 AM),107,Walk & Exercise,64,0
+1321,2026-10-25,Morning (7-10 AM),105,Walk & Exercise,66,0
+1322,2026-10-25,Midday (11 AM-2 PM),102,Feeding & Meds,34,0
+1323,2026-10-25,Evening (5-8 PM),102,Feeding & Meds,20,0
+1324,2026-10-26,Morning (7-10 AM),106,Feeding & Meds,30,0
+1325,2026-10-26,Midday (11 AM-2 PM),102,Feeding & Meds,24,0
+1326,2026-10-27,Morning (7-10 AM),106,Feeding & Meds,28,9
+1327,2026-10-27,Evening (5-8 PM),103,Walk & Exercise,61,0
+1328,2026-10-27,Morning (7-10 AM),107,Feeding & Meds,40,0
+1329,2026-10-27,Morning (7-10 AM),102,Drop-In Check,24,0
+1330,2026-10-28,Morning (7-10 AM),108,Drop-In Check,34,16
+1331,2026-10-28,Morning (7-10 AM),107,Walk & Exercise,58,0
+1332,2026-10-29,Morning (7-10 AM),105,Drop-In Check,48,9
+1333,2026-10-29,Morning (7-10 AM),104,Walk & Exercise,53,0
+1334,2026-10-29,Evening (5-8 PM),106,Feeding & Meds,30,0
+1335,2026-10-29,Morning (7-10 AM),102,Feeding & Meds,31,0

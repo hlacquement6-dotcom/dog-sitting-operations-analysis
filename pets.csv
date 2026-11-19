@@ -1,0 +1,9 @@
+pet_id,dog_name,breed,size_category,energy_level,requires_meds,base_visit_rate
+101,Cooper,Golden Retriever,Large,High,0,45.0
+102,Bella,French Bulldog,Small,Low,1,40.0
+103,Max,German Shepherd,Large,High,1,50.0
+104,Daisy,Beagle,Medium,Moderate,0,35.0
+105,Charlie,Labrador Mix,Large,High,0,42.0
+106,Luna,Dachshund,Small,Moderate,1,38.0
+107,Rocky,Boxer,Large,High,0,45.0
+108,Milo,Corgi,Medium,Moderate,0,38.0
